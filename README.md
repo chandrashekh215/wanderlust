@@ -53,32 +53,8 @@ This WanderLust project showcases my proficiency in full-stack web development, 
 ![Screenshot (28)](https://github.com/user-attachments/assets/773ec572-3116-4fcf-a4c0-c698d8e51d73)
 
 
-## Authors
-
-- [@affancoder](https://github.com/affancoder)
 
 
 ## 🚀 About Me
-👋 Hi, I’m @affancoder (MD Affan Asghar)
-
-👀 I’m interested in coding.
- 
-🌱 I’m currently Full Stack Web developer & Java Programmer.
-
-💞️ I'm looking to collaborate on exciting and innovative projects that align with my skills and interests.
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://affancoder.github.io/Portfolio_Website/)
-
-Email: affanasgar8@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/mdaffanasghar/
-
-Instagram: https://www.instagram.com/mr_affan15/
-
-GitHub: https://github.com/affancoder
-## Feedback
-
-If you have any feedback, please reach out to us at affanasgar8@gmail.com
+👋 hi i am Chandra Shekhar 
 
